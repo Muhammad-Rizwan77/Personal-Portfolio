@@ -111,7 +111,7 @@
             },
             {
                 title: 'React E-commerce App',
-                description: 'A responsive Real E-commerce Web App built with modren web technologies, featuring APIs.',
+                description: 'A responsive Real E-commerce Web App built with modren web technologies.',
                 image: 'https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a056n94babjpplhxt2iu.png',
                 technologies: ['ReactJS', 'Bootstrap', 'CSS3', 'JavaScript'],
                 liveUrl: 'https://timely-muffin-d1a938.netlify.app/',
